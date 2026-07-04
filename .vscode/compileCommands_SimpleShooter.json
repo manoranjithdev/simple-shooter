@@ -1,0 +1,202 @@
+[
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocation.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocation.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocationIfSeen.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocationIfSeen.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTTaskNode_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTTaskNode_Shoot.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTTask_ClearBlackboardValue.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTTask_ClearBlackboardValue.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Gun.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Gun.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\HUDWidget.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\HUDWidget.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\MyPawn.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\MyPawn.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterAI.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterAI.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterPlayerController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	}
+]
