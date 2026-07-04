@@ -18,7 +18,6 @@
 - Unreal Engine 5
 - C++
 - Blueprints
-- Git & GitHub
 
 ---
 
